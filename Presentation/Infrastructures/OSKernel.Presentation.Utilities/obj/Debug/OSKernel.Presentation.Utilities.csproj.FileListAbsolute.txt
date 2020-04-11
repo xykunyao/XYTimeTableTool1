@@ -1,0 +1,15 @@
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\OSKernel.Presentation.Utilities.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\OSKernel.Presentation.Utilities.pdb
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\Ionic.Zip.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\NPOI.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\NPOI.OOXML.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\bin\Debug\Newtonsoft.Json.xml
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\obj\Debug\OSKernel.Presentation.Utilities.csproj.CopyComplete
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\obj\Debug\OSKernel.Presentation.Utilities.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\obj\Debug\OSKernel.Presentation.Utilities.pdb
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Presentation\Infrastructures\OSKernel.Presentation.Utilities\obj\Debug\OSKernel.Presentation.Utilities.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\bin\Debug\net45\XYKernel.OS.Common.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\bin\Debug\net45\XYKernel.OS.Common.pdb
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\obj\Debug\net45\XYKernel.OS.Common.AssemblyInfoInputs.cache
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\obj\Debug\net45\XYKernel.OS.Common.AssemblyInfo.cs
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\obj\Debug\net45\XYKernel.OS.Common.dll
+C:\Kun.yao\Code\XYEDU_New\XYOSTimeTable\Common\XYKernel.OS.Common\obj\Debug\net45\XYKernel.OS.Common.pdb
